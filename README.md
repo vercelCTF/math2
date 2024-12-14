@@ -7,7 +7,6 @@ def factorial(n):
         return 1
     return n * factorial(n - 1)
 
-
 def is_prime(n):
     """
     Checks if a number is a prime number.
